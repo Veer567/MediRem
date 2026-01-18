@@ -15,15 +15,21 @@ People often forget to take medicines, lose track of remaining stock, or struggl
 > Below are some previews of MediRem. (Swipe-friendly UI built with a focus on clarity and usability.)
 
 <p align="center">
-  <img src="screenshots/home.jpeg" width="240"/>
-  <img src="screenshots/add_medicine.jpeg" width="240"/>
-  <img src="screenshots/medicine_list.jpeg" width="240"/>
+  <img src="screenshots/splash.jpeg" width="230"/>
+  <img src="screenshots/home.jpeg" width="230"/>
+  <img src="screenshots/medicine_list.jpeg" width="230"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/reminder.jpeg" width="240"/>
-  <img src="screenshots/medicine_info.jpeg" width="240"/>
-  <img src="screenshots/nearby_pharmacies.jpeg" width="240"/>
+  <img src="screenshots/add_medicine.jpeg" width="230"/>
+  <img src="screenshots/reminder.jpeg" width="230"/>
+  <img src="screenshots/notification.jpeg" width="230"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/medicine_info.jpeg" width="230"/>
+  <img src="screenshots/nearby_pharmacies.jpeg" width="230"/>
+  <img src="screenshots/profile.jpeg" width="230"/>
 </p>
 
 
