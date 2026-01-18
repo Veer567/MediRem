@@ -81,15 +81,6 @@ People often forget to take medicines, lose track of remaining stock, or struggl
 
 ---
 
-## 👥 Team
-
-This project was built collaboratively by:
-
-* **Vikas**
-* **Prassan**
-* **You**
-
----
 
 ## 📌 Project Highlights
 
@@ -102,7 +93,6 @@ This project was built collaboratively by:
 
 ## 🔮 Future Improvements
 
-* User authentication
 * Cloud backup & sync
 * Doctor / prescription upload
 * Multi-language support
